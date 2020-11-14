@@ -12,8 +12,10 @@ public class Solution {
         while(fast != null && fast.next != null){
             fast = fast.next.next;
             slow = slow.next;
+            //快指针与慢指针相遇，说明有环，快指针置于头节点
             if(fast == slow){
                 fast = head;
+                //快慢指针再次相遇为环起点
                 while(fast != slow){
                     slow = slow.next;
                     fast = fast.next;
