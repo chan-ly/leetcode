@@ -13,19 +13,15 @@ public class Solution {
             fast = fast.next.next;
             slow = slow.next;
             if(fast == slow){
-                break;
-            }           
-        }
-        if(fast == null || fast.next == null){
-            return null;
-        }else{
-            fast = head;
-            while(fast != slow){
-                slow = slow.next;
-                fast = fast.next;               
+                fast = head;
+                while(fast != slow){
+                    slow = slow.next;
+                    fast = fast.next;
+                }
+                return fast;
             }
-            return fast;
-        }
+        }    
+        return null;   
     }
 }
 
