@@ -10,3 +10,4 @@ leetcode解题记录
 [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)|[JAVA](https://github.com/chan-ly/leetcode/tree/main/src/142.-%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8%20II)
 [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)|[JAVA](https://github.com/chan-ly/leetcode/tree/main/src/160-%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8)
 [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)|[JAVA](https://github.com/chan-ly/leetcode/tree/main/src/206.-%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8)
+[剑指 Offer 14- I. 剪绳子](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/)|[JAVA](https://github.com/chan-ly/leetcode/tree/main/src/%E5%89%91%E6%8C%87%20Offer%2014-%20I.%20%E5%89%AA%E7%BB%B3%E5%AD%90)
